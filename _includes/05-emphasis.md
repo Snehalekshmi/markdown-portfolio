@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Reading*
+_Poetry_
+**Communication Skills**
+_I **can** combine them_
